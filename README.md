@@ -1,6 +1,4 @@
-# SynQSetClient
-
-![SynQSetClient Logo](https://github.com/SynQSet/SynQSet/blob/main/docs/assets/logo-word.png)
+# ![SynQSetClient Logo](https://github.com/SynQSet/SynQSet/blob/main/docs/assets/logo-word.png)
 
 **SynQSetClient** is a PowerShell module that serves as a client for the SynQSet.com application's backend.
 
